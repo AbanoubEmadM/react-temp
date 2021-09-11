@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/AbanoubEmadM/react-temp/static/css/main.4e048389.chunk.css",
+    "main.js": "/AbanoubEmadM/react-temp/static/js/main.05b98e9d.chunk.js",
+    "main.js.map": "/AbanoubEmadM/react-temp/static/js/main.05b98e9d.chunk.js.map",
+    "runtime-main.js": "/AbanoubEmadM/react-temp/static/js/runtime-main.612ed397.js",
+    "runtime-main.js.map": "/AbanoubEmadM/react-temp/static/js/runtime-main.612ed397.js.map",
+    "static/js/2.682c5a3a.chunk.js": "/AbanoubEmadM/react-temp/static/js/2.682c5a3a.chunk.js",
+    "static/js/2.682c5a3a.chunk.js.map": "/AbanoubEmadM/react-temp/static/js/2.682c5a3a.chunk.js.map",
+    "static/js/3.d96a61db.chunk.js": "/AbanoubEmadM/react-temp/static/js/3.d96a61db.chunk.js",
+    "static/js/3.d96a61db.chunk.js.map": "/AbanoubEmadM/react-temp/static/js/3.d96a61db.chunk.js.map",
+    "index.html": "/AbanoubEmadM/react-temp/index.html",
+    "static/css/main.4e048389.chunk.css.map": "/AbanoubEmadM/react-temp/static/css/main.4e048389.chunk.css.map",
+    "static/js/2.682c5a3a.chunk.js.LICENSE.txt": "/AbanoubEmadM/react-temp/static/js/2.682c5a3a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.612ed397.js",
+    "static/js/2.682c5a3a.chunk.js",
+    "static/css/main.4e048389.chunk.css",
+    "static/js/main.05b98e9d.chunk.js"
+  ]
+}
